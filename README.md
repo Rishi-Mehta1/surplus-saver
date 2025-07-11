@@ -1,73 +1,113 @@
-# Welcome to your Lovable project
+# 🛒 Surplus Saver: Smarter Shopping. Greener Planet.
 
-## Project info
+**An AI-powered surplus food marketplace designed to reduce retail food waste at scale while delivering savings and sustainability.**
 
-**URL**: https://lovable.dev/projects/2c6e7012-7a47-4993-8dc6-e5eddf9863fd
+🌿 Built for the **Walmart Sparkathon 2025** by **Team ECO.dev**
+[Demo Link](https://surplus-teamz.netlify.app/)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🚀 Overview
 
-**Use Lovable**
+Surplus Saver is an integrated platform to help Walmart (or any large retailer) manage surplus inventory approaching expiry dates. By applying AI-powered shelf-life predictions and dynamic discounts, it turns food waste into opportunity—for customers, the business, and the planet.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/2c6e7012-7a47-4993-8dc6-e5eddf9863fd) and start prompting.
+✅ Reduces food waste at scale
+✅ Delivers savings to budget-conscious shoppers
+✅ Supports corporate ESG goals
+✅ Increases operational efficiency
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🏷️ Problem Statement
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Retail food waste is a critical global issue. Every day, tons of perfectly edible food is discarded because it's nearing its expiry date—contributing to **1.3 billion tons** of food waste annually.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+This waste represents lost revenue, disposal costs, and severe environmental consequences (methane emissions, wasted resources). Consumers expect retailers to adopt sustainable practices and reduce waste as part of responsible business.
 
-Follow these steps:
+For Walmart, minimizing food waste isn’t just operational efficiency—it’s essential for brand trust, ESG targets, and leading the industry toward a sustainable future.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 💡 Solution: Walmart Surplus Saver
 
-# Step 3: Install the necessary dependencies.
-npm i
+**Surplus Saver** is an AI-powered surplus food marketplace that enables:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+**For Customers:**
 
-**Edit a file directly in GitHub**
+* Browse real-time surplus inventory nearing expiry
+* Purchase discounted items individually or via Surprise Bags
+* Choose convenient pickup or delivery options
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+**For Store Teams (Admin Dashboard):**
 
-**Use GitHub Codespaces**
+* Track real-time surplus levels
+* Configure dynamic discount rules with AI-powered shelf-life predictions
+* Monitor environmental impact (meals saved, CO₂ emissions avoided)
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+✅ Reduces waste and disposal costs
+✅ Provides unbeatable savings for customers
+✅ Supports Walmart’s ESG commitments
+✅ Creates operational transparency and efficiency
 
-## What technologies are used for this project?
+By turning surplus into opportunity, Surplus Saver transforms food waste from an unavoidable loss into a win-win for customers, the business, and the planet. 🌎💚
+
+---
+
+## 🛠️ Tech Stack
 
 This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+* ⚡ **Vite** – for blazing-fast builds and dev experience
+* 🗭 **TypeScript** – static typing for safety and clarity
+* ⚡️ **React** – modern, component-based UI
+* 🎨 **shadcn/ui** – beautiful, accessible React components
+* 💨 **Tailwind CSS** – utility-first styling
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/2c6e7012-7a47-4993-8dc6-e5eddf9863fd) and click on Share -> Publish.
+## 📦 Getting Started
 
-## Can I connect a custom domain to my Lovable project?
+Clone the repository:
 
-Yes, you can!
+```bash
+git clone https://github.com/Rishi-Mehta1/surplus-saver.git
+cd surplus-saver
+```
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Install dependencies:
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+---
+
+## 📸 Demo Video
+
+Watch our full 2-minute hackathon demo video on YouTube:
+[YouTube Link](https://youtu.be/lAaPhR4oAT8)
+
+> ⚠️ **Disclaimer:** We do not own the stock footage, illustrative clips, background audio, or AI-generated voiceover (apart from our app/website demo). All media is used under fair use for educational and hackathon demonstration purposes only. Video editing was done with **Canva**.
+
+---
+
+## 💖 Team ECO.dev
+
+Built with love for the **Walmart Sparkathon 2025**
+
+* *Team ECO.dev*
+
+---
+
