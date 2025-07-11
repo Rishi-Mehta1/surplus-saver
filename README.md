@@ -110,6 +110,10 @@ Watch our full 2-minute hackathon demo video on YouTube:
 Built with love for the **Walmart Sparkathon 2025**
 
 ~ *Team ECO.dev*
+members:1) Maitree Mistry
+        2) Rishi Mehta
+        3) Parthrajsinh Zala
+
 
 ---
 
