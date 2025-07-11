@@ -3,6 +3,7 @@
 **An AI-powered surplus food marketplace designed to reduce retail food waste at scale while delivering savings and sustainability.**
 
 🌿 Built for the **Walmart Sparkathon 2025** by **Team ECO.dev**
+
 [Demo Link](https://surplus-teamz.netlify.app/)
 
 ---
@@ -11,10 +12,10 @@
 
 Surplus Saver is an integrated platform to help Walmart (or any large retailer) manage surplus inventory approaching expiry dates. By applying AI-powered shelf-life predictions and dynamic discounts, it turns food waste into opportunity—for customers, the business, and the planet.
 
-✅ Reduces food waste at scale
-✅ Delivers savings to budget-conscious shoppers
-✅ Supports corporate ESG goals
-✅ Increases operational efficiency
+- ✅ Reduces food waste at scale
+- ✅ Delivers savings to budget-conscious shoppers
+- ✅ Supports corporate ESG goals
+- ✅ Increases operational efficiency
 
 ---
 
@@ -44,10 +45,10 @@ For Walmart, minimizing food waste isn’t just operational efficiency—it’s 
 * Configure dynamic discount rules with AI-powered shelf-life predictions
 * Monitor environmental impact (meals saved, CO₂ emissions avoided)
 
-✅ Reduces waste and disposal costs
-✅ Provides unbeatable savings for customers
-✅ Supports Walmart’s ESG commitments
-✅ Creates operational transparency and efficiency
+- ✅ Reduces waste and disposal costs
+- ✅ Provides unbeatable savings for customers
+- ✅ Supports Walmart’s ESG commitments
+- ✅ Creates operational transparency and efficiency
 
 By turning surplus into opportunity, Surplus Saver transforms food waste from an unavoidable loss into a win-win for customers, the business, and the planet. 🌎💚
 
